@@ -3,7 +3,7 @@ def initialized(name)
  end
 end
 
-def roster
+def initialized(roster)
   {}
 end
 
