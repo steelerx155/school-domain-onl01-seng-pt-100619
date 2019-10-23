@@ -4,6 +4,8 @@ class School
  end
  
  def initialized(roster)
-   roster
+   school.roster {}
+ end 
 end 
+
 # code here!
