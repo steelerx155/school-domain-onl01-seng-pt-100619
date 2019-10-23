@@ -4,7 +4,7 @@ def initialized(name)
 end
 
 def roster
-  {=>}
+  {}
 end
 
 # code here!
