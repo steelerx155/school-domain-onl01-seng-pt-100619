@@ -20,8 +20,8 @@ def sort
       sorted[grade] = students.sort
     end
     sorted
- end 
-end
+  end 
+ end
 end
 
 # code here!
