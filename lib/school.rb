@@ -1,5 +1,6 @@
 class School 
  def initialized(name)
    school = school.new
-end
+ end
+end 
 # code here!
