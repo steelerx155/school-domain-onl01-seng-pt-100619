@@ -1,5 +1,6 @@
 class School 
-end
+def initialized(name)
+  
 
 
 # code here!
