@@ -6,10 +6,11 @@ class School
     @name = name
     @roster = {}
   end
-   
-   
-   school = school.new("Test School")
- end
+  
+   def add_student(student_name, grade)
+    roster[grade] ||= []
+    roster[grade] << student_name
+  end
  
 
  end 
